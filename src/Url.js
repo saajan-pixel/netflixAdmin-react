@@ -1,0 +1,2 @@
+export const api_url="http://localhost:8800/api/"
+export const token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNjg4ZWJhYmU0ODFkOTY0NTFlNmQ0MiIsImlzQWRtaW4iOnRydWUsImlhdCI6MTY1MjIzMTc0MiwiZXhwIjoxNjUyNDkwOTQyfQ.7RRPdWUy-Ybc6DIRzHY_4oFjGbqzymAPmr64FfAlYkY"
